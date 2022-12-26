@@ -11,6 +11,11 @@ body {
   background: #343541;
 }
 
+h1 {
+  color:skyblue;
+  text-align: center;
+}
+
 #app {
   width: 100vw;
   height: 100vh;
